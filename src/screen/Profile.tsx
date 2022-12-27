@@ -1,6 +1,6 @@
 import { View, Text } from 'react-native';
 
-export function Profile() {
+export default function Profile() {
   return (
     <View>
       <Text>profile</Text>

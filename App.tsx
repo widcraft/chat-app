@@ -3,7 +3,7 @@ import { NavigationContainer } from '@react-navigation/native';
 import Friends from './src/screen/Chat';
 import Home from './src/screen/Home';
 import Match from './src/screen/Match';
-import { Profile } from './src/screen/Profile';
+import Profile from './src/screen/Profile';
 
 export default function App() {
   const Tab = createBottomTabNavigator();
